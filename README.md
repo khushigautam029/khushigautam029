@@ -8,7 +8,7 @@ Full Stack Developer | React | Spring Boot | MERN | AI Enthusiast
 
 ## 🚀 About Me
 
-🎓 Final Year B.Tech (AI Specialization)
+🎓 Final Year B.Tech (Computer Science with AI Specialization)
 
 💻 Full Stack Developer
 

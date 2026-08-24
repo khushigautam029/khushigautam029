@@ -245,32 +245,6 @@ Developed modules for an **Employee Appraisal Management System**.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushigautam029&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushigautam029&layout=compact&theme=tokyonight&hide_border=true" height="170">
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=khushigautam029&theme=tokyonight&hide_border=true">
-</p>
-
----
-
-## 📫 Let's Connect
-
-| Platform    | Link                                                                  |
-| ----------- | --------------------------------------------------------------------- |
-| 📧 Email    | [khushigautam029@gmail.com](mailto:khushigautam029@gmail.com)         |
-| 💼 LinkedIn | [Khushi Gautam](https://www.linkedin.com/in/khushi-gautam-165053269/) |
-| 🐙 GitHub   | [khushigautam029](https://github.com/khushigautam029)                 |
-
----
 
 ## 💡 Developer Philosophy
 

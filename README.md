@@ -69,7 +69,6 @@
 | 🔗 **REST APIs**  | Client-Server Communication    |
 | 🔐 **JWT**        | Authentication & Authorization |
 | 🔑 **bcrypt**     | Password Hashing               |
-| 🛡️ **Joi**       | Request Validation             |
 
 ---
 
@@ -79,7 +78,6 @@
 | ---------------- | ------------------- |
 | 🐬 **MySQL**     | Relational Database |
 | 🍃 **MongoDB**   | NoSQL Database      |
-| 🔄 **Sequelize** | MySQL ORM           |
 
 ---
 
@@ -95,15 +93,6 @@
 
 ---
 
-### 📱 Mobile Development
-
-| Technology      | Usage                             |
-| --------------- | --------------------------------- |
-| 🐦 **Flutter**  | Mobile Application Development    |
-| 🔥 **Firebase** | Real-time Data & Backend Services |
-
----
-
 ### 🔧 Tools
 
 | Tool           | Usage              |
@@ -112,7 +101,6 @@
 | 🐙 **GitHub**  | Code Hosting       |
 | 📮 **Postman** | API Testing        |
 | 💻 **VS Code** | Development        |
-| 📦 **npm**     | Package Management |
 
 ---
 
@@ -249,38 +237,6 @@ Developed modules for employee evaluation, appraisal cycles, feedback, reviews a
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushigautam029&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushigautam029&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=khushigautam029&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:khushigautam029@gmail.com">
-    <img src="https://img.shields.io/badge/Email-khushigautam029%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/khushi-gautam-165053269/">
-    <img src="https://img.shields.io/badge/LinkedIn-Khushi%20Gautam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/khushigautam029">
-    <img src="https://img.shields.io/badge/GitHub-khushigautam029-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
 
 ## 💡 Developer Philosophy
 

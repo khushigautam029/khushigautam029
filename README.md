@@ -62,8 +62,7 @@
 | 🌐 HTML5        | Web Structure               |
 | 🎨 CSS3         | Styling & Responsive UI     |
 | 🌊 Tailwind CSS | Modern UI Development       |
-| 📊 Chart.js     | Data Visualization          |
-| 🎯 Lucide React | UI Icons                    |
+
 
 ---
 
@@ -82,14 +81,13 @@
 
 ---
 
-### 🗄️ Databases & ORM
+### 🗄️ Databases 
 
 | Technology | Usage               |
 | ---------- | ------------------- |
 | 🐬 MySQL   | Relational Database |
 | 🍃 MongoDB | NoSQL Database      |
-| Sequelize  | MySQL ORM           |
-| Mongoose   | MongoDB ODM         |
+
 
 ---
 
@@ -105,14 +103,6 @@
 
 ---
 
-### 📱 Mobile Development
-
-| Technology  | Usage                             |
-| ----------- | --------------------------------- |
-| 🐦 Flutter  | Mobile Application Development    |
-| 🔥 Firebase | Real-time Data & Backend Services |
-
----
 
 ### 🔧 Tools & Development
 
@@ -122,7 +112,6 @@
 | 🐙 GitHub  | Code Hosting & Collaboration |
 | 💻 VS Code | Development Environment      |
 | 📮 Postman | API Testing                  |
-| 📦 npm     | Package Management           |
 
 ---
 

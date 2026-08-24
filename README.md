@@ -1,169 +1,171 @@
 # 👋 Hi, I'm Khushi Gautam
 
-### 💻 Full Stack Developer | MERN | Java Full Stack | React | Spring Boot | AI Enthusiast
+### 💻 Full Stack Developer • MERN • Java Spring Boot • React • AI-Integrated Applications
 
 <p align="center">
   <a href="https://github.com/khushigautam029">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/khushi-gautam-165053269/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:khushigautam029@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Building+full-stack+web+applications;React+%7C+Node.js+%7C+Express.js;Spring+Boot+%7C+MySQL+%7C+MongoDB;REST+APIs+%7C+JWT+Authentication;Exploring+AI-powered+applications" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 **B.Tech in Computer Science & Artificial Intelligence** graduate
-
-💻 **Full Stack Developer** with experience building web applications and REST APIs
-
-🏢 **MERN Stack Developer Trainee @ Dotsquares**
-
-💼 Previously worked as a **Java Full Stack Developer Intern @ Pratham Software**
-
-🌱 Currently learning and improving my skills in:
-
-* Spring Boot
-* System Design
-* Data Structures & Algorithms
-* Backend Development
-* REST API Architecture
-* AI Integration
-
-📍 India
-
-📫 **Email:** [khushigautam029@gmail.com](mailto:khushigautam029@gmail.com)
+* 🎓 **B.Tech in Computer Science & Artificial Intelligence** — Banasthali Vidyapith
+* 💼 **MERN Stack Developer Trainee @ Dotsquares**
+* 🏢 Previously **Java Full Stack Developer Intern @ Pratham Software**
+* 💻 Interested in **Full Stack & Backend Development**
+* 🤖 Exploring **AI-powered applications and Gemini API integration**
+* 🔐 Experienced in **JWT authentication, REST APIs, validation and secure backend development**
+* 🗄️ Working with both **SQL and NoSQL databases**
+* 🌱 Currently improving my knowledge of **DSA, System Design and Backend Architecture**
+* 📍 Jaipur, India
+* 📫 **Email:** [khushigautam029@gmail.com](mailto:khushigautam029@gmail.com)
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
 
-| Technology    | Level / Usage                 |
-| ------------- | ----------------------------- |
-| ☕ Java        | Full Stack Development        |
-| 🟨 JavaScript | Full Stack Development        |
-| ⚡ C++         | DSA & Problem Solving         |
-| 🐍 Python     | Basics / AI & Computer Vision |
+| Technology        | Usage                            |
+| ----------------- | -------------------------------- |
+| ☕ **Java**        | Backend & Full Stack Development |
+| 🟨 **JavaScript** | Full Stack Web Development       |
+| ⚡ **C++**         | DSA & Problem Solving            |
+| 🐍 **Python**     | Basics / AI & Computer Vision    |
 
 ---
 
 ### 🎨 Frontend Development
 
-| Technology      | Usage                       |
-| --------------- | --------------------------- |
-| ⚛️ React.js     | Web Application Development |
-| 🌐 HTML5        | Web Structure               |
-| 🎨 CSS3         | Styling & Responsive UI     |
-| 🌊 Tailwind CSS | Modern UI Development       |
-
+| Technology          | Usage                      |
+| ------------------- | -------------------------- |
+| ⚛️ **React.js**     | Frontend & SPA Development |
+| 🌐 **HTML5**        | Web Structure              |
+| 🎨 **CSS3**         | Styling & Responsive UI    |
+| 🌊 **Tailwind CSS** | UI Development             |
 
 ---
 
 ### ⚙️ Backend Development
 
-| Technology    | Usage                          |
-| ------------- | ------------------------------ |
-| 🟢 Node.js    | Backend Development            |
-| 🚂 Express.js | REST API Development           |
-| ☕ Spring Boot | Java Backend Development       |
-| 🔗 REST APIs  | Client-Server Communication    |
-| 🔐 JWT        | Authentication & Authorization |
-| 🔑 bcrypt     | Password Hashing               |
-| 🛡️ Joi       | Request Validation             |
-| 📧 Nodemailer | Email Services                 |
+| Technology        | Usage                          |
+| ----------------- | ------------------------------ |
+| 🟢 **Node.js**    | Backend Development            |
+| 🚂 **Express.js** | REST API Development           |
+| ☕ **Spring Boot** | Java Backend Development       |
+| 🔗 **REST APIs**  | Client-Server Communication    |
+| 🔐 **JWT**        | Authentication & Authorization |
+| 🔑 **bcrypt**     | Password Hashing               |
+| 🛡️ **Joi**       | Request Validation             |
 
 ---
 
-### 🗄️ Databases 
+### 🗄️ Databases & ORM
 
-| Technology | Usage               |
-| ---------- | ------------------- |
-| 🐬 MySQL   | Relational Database |
-| 🍃 MongoDB | NoSQL Database      |
-
+| Technology       | Usage               |
+| ---------------- | ------------------- |
+| 🐬 **MySQL**     | Relational Database |
+| 🍃 **MongoDB**   | NoSQL Database      |
+| 🔄 **Sequelize** | MySQL ORM           |
 
 ---
 
 ### 🤖 AI & Computer Vision
 
-| Technology          | Usage                    |
-| ------------------- | ------------------------ |
-| ✨ Google Gemini API | AI Chatbot & AI Features |
-| 🐍 Python           | AI / Computer Vision     |
-| 👁️ OpenCV          | Image Processing         |
-| 🎯 YOLO             | Animal/Object Detection  |
-| 🖼️ FSRCNN          | Image Enhancement        |
+| Technology              | Usage                           |
+| ----------------------- | ------------------------------- |
+| ✨ **Google Gemini API** | AI Chatbot & Financial Insights |
+| 🐍 **Python**           | AI / Computer Vision            |
+| 👁️ **OpenCV**          | Image Processing                |
+| 🎯 **YOLO**             | Animal Detection                |
+| 🖼️ **FSRCNN**          | Image Enhancement               |
 
 ---
 
+### 📱 Mobile Development
 
-### 🔧 Tools & Development
-
-| Tool       | Usage                        |
-| ---------- | ---------------------------- |
-| 🔧 Git     | Version Control              |
-| 🐙 GitHub  | Code Hosting & Collaboration |
-| 💻 VS Code | Development Environment      |
-| 📮 Postman | API Testing                  |
+| Technology      | Usage                             |
+| --------------- | --------------------------------- |
+| 🐦 **Flutter**  | Mobile Application Development    |
+| 🔥 **Firebase** | Real-time Data & Backend Services |
 
 ---
 
-## 🚀 Projects
+### 🔧 Tools
 
-### 📊 Employee Appraisal Management System
-
-**React.js + Spring Boot + MySQL**
-
-A full-stack employee appraisal management platform designed to manage employee evaluations and appraisal workflows.
-
-**Key Features:**
-
-* 🔐 Multi-role authentication
-* 👨‍💼 Employee, Manager & HR workflows
-* 📝 Employee self-evaluation
-* 🔄 Appraisal cycles
-* 💬 Feedback & reviews
-* 🔗 REST APIs
-* 🗄️ MySQL database integration
-* 📱 Responsive React interface
+| Tool           | Usage              |
+| -------------- | ------------------ |
+| 🔧 **Git**     | Version Control    |
+| 🐙 **GitHub**  | Code Hosting       |
+| 📮 **Postman** | API Testing        |
+| 💻 **VS Code** | Development        |
+| 📦 **npm**     | Package Management |
 
 ---
 
-### 💰 Expense Tracker
+# 🚀 Featured Projects
 
-**React.js + Node.js + Express.js + MySQL + Sequelize**
+## 💰 Expense Tracker
 
-A full-stack personal finance management application for tracking income and expenses.
+### `React.js` `Node.js` `Express.js` `MySQL` `Sequelize` `JWT` `Gemini API`
 
-**Key Features:**
+A full-stack personal finance management application for managing income, expenses and financial insights.
 
-* 🔐 JWT authentication
+### ✨ Key Features
+
+* 🔐 JWT-based authentication
 * 💰 Income & expense management
 * 📊 Financial dashboards
 * 📈 Financial analytics
-* 🔔 Notifications
-* 📄 PDF & Excel reports
+* 🔔 Notification system
+* 📄 PDF & Excel report generation
 * 🔎 Search, filtering & pagination
 * 🗄️ MySQL database with Sequelize ORM
 * 🤖 Gemini-powered AI financial chatbot
-* 🔒 Input validation & security
+* 🔒 Request validation and secure backend APIs
 
 ---
 
-### 🛒 E-Commerce Website
+## 📊 Employee Appraisal Management System
 
-**MongoDB + Express.js + React.js + Node.js**
+### `React.js` `Spring Boot` `MySQL` `REST APIs`
 
-A full-stack e-commerce platform with customer and admin functionality.
+A full-stack employee performance appraisal platform developed during my Java Full Stack internship.
 
-**Key Features:**
+### ✨ Key Features
+
+* 🔐 Role-based workflows
+* 👨‍💼 Employee, Manager & HR modules
+* 📝 Employee self-evaluation
+* 🎯 Goal / target management
+* 🔄 Appraisal cycle management
+* 💬 Feedback & review management
+* 📊 Appraisal reports
+* 🔗 RESTful APIs
+* 🗄️ MySQL database integration
+
+---
+
+## 🛒 E-Commerce Website
+
+### `React.js` `Node.js` `Express.js` `MongoDB`
+
+A full-stack e-commerce platform with customer and product management functionality.
+
+### ✨ Key Features
 
 * 👤 User authentication
 * 🛍️ Product management
@@ -173,19 +175,19 @@ A full-stack e-commerce platform with customer and admin functionality.
 * 📦 Order management
 * 👨‍💼 Admin product management
 * 🔗 REST APIs
-* 📄 Pagination
+* 📄 Pagination & filtering
 * 🗄️ MongoDB integration
 * 📱 Responsive React UI
 
 ---
 
-### 🐾 Wildlife Monitoring System
+## 🐾 Wildlife Monitoring System
 
-**Flutter + Python + YOLO + OpenCV + Firebase**
+### `Flutter` `Python` `YOLO` `OpenCV` `Firebase`
 
-An AI-powered mobile application for wildlife monitoring and animal detection.
+An AI-based mobile application for wildlife monitoring and animal detection.
 
-**Key Features:**
+### ✨ Key Features
 
 * 🐾 Animal detection using YOLO
 * 👁️ Image processing using OpenCV
@@ -196,58 +198,92 @@ An AI-powered mobile application for wildlife monitoring and animal detection.
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
-### 🏢 Dotsquares
+## 🏢 Dotsquares
 
-**MERN Stack Developer Trainee**
+### MERN Stack Developer Trainee
 
-*July 2026 – Present*
+**July 2026 – Present**
 
 Working on full-stack web applications using:
 
 `React.js` `Node.js` `Express.js` `MySQL` `Sequelize` `REST APIs` `JWT`
 
+Currently working on an **Expense Tracker application** involving authentication, financial management, dashboards, reporting, notifications and AI-powered chatbot functionality.
+
 ---
 
-### 🏢 Pratham Software
+## 🏢 Pratham Software
 
-**Java Full Stack Developer Intern**
+### Java Full Stack Developer Intern
 
-*January 2026 – June 2026*
+**January 2026 – June 2026**
 
-Worked on full-stack development using:
+Worked on a full-stack **Employee Appraisal Management System** using:
 
 `React.js` `Spring Boot` `MySQL` `REST APIs`
 
-Developed modules for an **Employee Appraisal Management System**.
+Developed modules for employee evaluation, appraisal cycles, feedback, reviews and role-based workflows.
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
 ### Banasthali Vidyapith, Newai (Tonk)
 
 **B.Tech – Computer Science & Artificial Intelligence**
 
-**2022 – 2026**
+📅 **2022 – 2026**
 
-**CGPA: 8.78 / 10**
-
----
-
-## 📜 Certifications
-
-| Certification             | Organization     |
-| ------------------------- | ---------------- |
-| MERN Stack Development    | Regex Software   |
-| Java Full Stack Developer | Pratham Software |
+🏆 **CGPA: 8.78 / 10**
 
 ---
 
+# 📜 Certifications
+
+| Certification                    | Organization     |
+| -------------------------------- | ---------------- |
+| 🏆 **MERN Stack Development**    | Regex Software   |
+| 🏆 **Java Full Stack Developer** | Pratham Software |
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khushigautam029&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushigautam029&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=khushigautam029&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:khushigautam029@gmail.com">
+    <img src="https://img.shields.io/badge/Email-khushigautam029%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/khushi-gautam-165053269/">
+    <img src="https://img.shields.io/badge/LinkedIn-Khushi%20Gautam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/khushigautam029">
+    <img src="https://img.shields.io/badge/GitHub-khushigautam029-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
 
 ## 💡 Developer Philosophy
 
 > **"Code. Learn. Build. Repeat."**
 
-⭐ If you find my projects interesting, feel free to explore my repositories and connect with me!
+⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
